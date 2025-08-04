@@ -23,7 +23,7 @@ It works by sniffing ARP packets on the network and comparing the actual MAC add
 
 **1. Clone the repository:**
 ```bash
-git clone https://github.com/yourusername/arp-spoof-detector.git
+git clone https://github.com/Nozarashi-1/arp-spoof-detector.git
 cd arp-spoof-detector
 ```
 ---
