@@ -26,6 +26,7 @@ It works by sniffing ARP packets on the network and comparing the actual MAC add
 git clone https://github.com/yourusername/arp-spoof-detector.git
 cd arp-spoof-detector
 ```
+---
 
 ## 🚀 Usage
 Run the script with root privileges:
